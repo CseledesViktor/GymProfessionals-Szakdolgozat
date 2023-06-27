@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "gymprofessionals-42ec6": {
+      "hosting": {
+        "GymProfessionals": [
+          "gymprofessionals-szakdolgozat-szte"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "gymprofessionals-42ec6"
+  }
+}
